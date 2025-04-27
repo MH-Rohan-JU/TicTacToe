@@ -1,5 +1,5 @@
 ## Add Database
-Do the following: 
+Do as the followings: 
 ```sql
 CREATE DATABASE IF NOT EXISTS tictactoe;
 
